@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\Güncel Kuruyemiş Projesi.exe.config
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\Güncel Kuruyemiş Projesi.exe
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\Güncel Kuruyemiş Projesi.pdb
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel_Kuruyemiş_Projesi.Form1.resources
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel_Kuruyemiş_Projesi.Properties.Resources.resources
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.csproj.CopyComplete
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.exe
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.pdb
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel_Kuruyemiş_Projesi.Form2.resources
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel_Kuruyemiş_Projesi.Form3.resources
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel_Kuruyemiş_Projesi.Form4.resources
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\Güncel Kuruyemiş Projesi.exe.manifest
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\bin\Debug\Güncel Kuruyemiş Projesi.application
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.exe.manifest
+C:\Users\PC\source\repos\Güncel Kuruyemiş Projesi\Güncel Kuruyemiş Projesi\obj\Debug\Güncel Kuruyemiş Projesi.application

@@ -1,0 +1,15 @@
+English:
+Before running the project, make sure your SQL Server is running. Paste the relevant SQL codes into the 'Kuruyemiş' 
+object you created and execute them. Next, we will take the 'Data Source' parts. When we first open MSSQL, copy the 
+name of your server. Then, open the project in Visual Studio and click Tools > Connect to Database. Paste the server 
+name you copied into the server name field. Select the database name related to the project and click on the advanced 
+section. Copy the Data Source part located at the bottom and click OK. Paste the copied Data Source part into the 
+SqlConnection("Data Source=") sections in the project.
+
+Turkish:
+Projeyi çalıştırmadan önce sql serverınızın çalıştığından emin olun. İlgili SQL kodlarını 'Kuruyemiş' adı altında 
+oluşturduğunuz object kısmına yapıştırıp çalıştırın. Daha sonrasında 'Data Source' kısımlarını alacağız. MSSQL'i ilk 
+açtığımızda server adımızı kopyalıyoruz. Daha sonrasında Visual Stuiodan projeyi açıp Araçlar > Veritabanına Bağlan 
+kısmına tıklıyoruz. Sunucu adına kopyaladığımız server adını yapıştırıyoruz. Proje ile ilgili olan veri tabanı adını 
+seçip gelişmiş kısmına basıyoruz. Altta bulunan Data Source kısmını kopyalayıp tamam diyoruz. Kopyaladığımız data source 
+kısmını projede bulunan SqlConnection("Data Source=") kısımlarına yapıştırıyoruz.
